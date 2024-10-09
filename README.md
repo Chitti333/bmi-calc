@@ -1,4 +1,4 @@
-Here’s a sample `README.md` file for your BMI calculator project, assuming it's a Python-based project:
+
 
 ---
 
@@ -7,7 +7,7 @@ Here’s a sample `README.md` file for your BMI calculator project, assuming it'
 ## Overview
 
 The **BMI Calculator** is a simple Python-based tool that helps you calculate your Body Mass Index (BMI) by providing your weight and height. BMI is a measure of body fat based on height and weight that applies to adult men and women.
-
+       Live link -- [Click here](https://bmi-calculator-stay-healthy.netlify.app/#)
 ## Features
 
 - Calculate BMI based on user input (weight and height).
