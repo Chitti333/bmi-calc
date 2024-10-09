@@ -85,4 +85,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 For any queries or feedback, feel free to reach out to the project creator at:
 - GitHub: [Chitti333](https://github.com/Chitti333)
 - GitLab: [Chitti333](https://gitlab.com/Chitti333)
+- [gmail](chittithallikaja@gmail.com)
+  [**LinkedIn**](https://www.linkedin.com/in/chittithalli-kaja-a097802a4/)
 
